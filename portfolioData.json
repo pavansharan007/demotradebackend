@@ -1,0 +1,32 @@
+{
+  "demoUser": {
+    "balance": 65777.65088593528,
+    "stocks": {
+      "TATASTEEL": {
+        "qty": 12,
+        "ratings": [],
+        "comments": []
+      },
+      "INFY": {
+        "qty": 22,
+        "ratings": [],
+        "comments": []
+      },
+      "RELIANCE": {
+        "qty": 0,
+        "ratings": [],
+        "comments": []
+      },
+      "HDFCBANK": {
+        "qty": 0,
+        "ratings": [],
+        "comments": []
+      },
+      "ITC": {
+        "qty": 0,
+        "ratings": [],
+        "comments": []
+      }
+    }
+  }
+}
